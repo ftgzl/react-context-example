@@ -1,5 +1,4 @@
 import { createContext, useState, useEffect, useContext } from "react";
-import UserContext from "./UserContext";
 
 const ThemeContext = createContext()
 

@@ -1,4 +1,3 @@
-import {useContext} from 'react'
 import {useTheme} from '../context/ThemeContext'
 
 import MyButton from './MyButton'
